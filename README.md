@@ -30,12 +30,19 @@ https://archive.ics.uci.edu/ml/datasets/Census+Income
 # Results :
 
 The accuracy obtained on the census data set is :
+
 ID3 -> 82.03%
+
 ID3 with reduced error pruning -> 83.48%
+
 Random forest -> 1 tree - 82.22%
+
                  5 trees - 83.71%
+                 
                  10 trees - 84.28%
+                 
                  100 trees - 84.49%
+                 
 
 
 
