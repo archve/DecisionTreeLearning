@@ -27,7 +27,7 @@ Additional information regarding the various attributes can be found at -
 https://archive.ics.uci.edu/ml/datasets/Census+Income
 
 
-#Outcome :
+# Results :
 
 The accuracy obtained on the census data set is :
 ID3 -> 82.03%
